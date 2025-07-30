@@ -44,7 +44,7 @@
   "main": "index.js",
   "types": "index.d.ts",
   "dependencies": {
-    "react-native-gesture-handler": "^2.20.0"
+    "react-native-gesture-handler": "2.27.0"
   },
   "devDependencies": {
     "@types/react": "^18.2.25",
